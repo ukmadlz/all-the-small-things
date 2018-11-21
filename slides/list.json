@@ -3,8 +3,9 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/i-failed-you.gif"
+            "data-background": "resources/gifs/charles-darwin.gif"
         }
     },
-    "who-am-i.md"
+    "who-am-i.md",
+    "work-for.md"
 ]
