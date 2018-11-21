@@ -1,0 +1,10 @@
+[
+    "index.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/i-failed-you.gif"
+        }
+    },
+    "who-am-i.md"
+]
