@@ -32,5 +32,17 @@
         "attr": {
             "data-background": "resources/gifs/observe-telescope.gif"
         }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/youths.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/aladdin-new-world.gif"
+        }
     }
 ]
