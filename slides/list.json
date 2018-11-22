@@ -91,5 +91,36 @@
         }
     },
     "1958.md",
-    "bell-labs-invents-modem.md"
+    "bell-labs-invents-modem.md",
+    "1969.md",
+    "ucla-team-sends-first-data-packets.md",
+    "1972.md",
+    "ray-tomlinson-invents-email.md",
+    "1973.md",
+    "tcp-ip-protocol-development-begins.md",
+    "1974.md",
+    "vint-cerf-robert-kahn-coin-internet-creators-of-tcp-ip.md",
+    "10ish-years-nothing-to-the-internet.md",
+    "1983.md",
+    "first-u-s-research-education-network-developed.md",
+    "1989.md",
+    "tim-berners-lee-creates-www.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/all-hail.gif"
+        }
+    },
+    "1991.md",
+    "world-wide-web-opens-to-public.md",
+    "still-exists.md",
+    "http-info-cern-ch-hypertext-www-theproject-html.md",
+    "so-basic.md",
+    "1995.md",
+    "mp3-is-developed.md",
+    "1999.md",
+    "craig-newmark-founds-craigslist-mitchell-baker-helps-found-mozilla-project.md",
+    "2001.md",
+    "jimmy-wales-launches-wikipedia.md",
+    "another-25-years.md"
 ]
