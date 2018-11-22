@@ -3,8 +3,34 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/i-failed-you.gif"
+            "data-background": "resources/gifs/charles-darwin.gif"
         }
     },
-    "who-am-i.md"
+    "who-am-i.md",
+    "work-for.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/monkey-typewriter.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/ponder.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/headdesk.gif"
+        }
+    },
+    "so-what-s-this-talk-about.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/observe-telescope.gif"
+        }
+    }
 ]
