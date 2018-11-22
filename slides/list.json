@@ -75,5 +75,21 @@
         "attr": {
             "data-background": "resources/gifs/mib-new-hotness.gif"
         }
-    }
+    },
+    "lets-being.md",
+    "ancient-history.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/dinosurs.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/felix-walking.gif"
+        }
+    },
+    "1958.md",
+    "bell-labs-invents-modem.md"
 ]
