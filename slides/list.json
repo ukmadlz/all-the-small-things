@@ -169,5 +169,26 @@
         "attr": {
             "data-background": "resources/gifs/starwars-solo-shurg.gif"
         }
-    }
+    },
+    "flash.md",
+    "really-interactive.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/flash-games.gif"
+        }
+    },
+    "but-building-it-still-sucked.md",
+    "at-last-standards.md",
+    "css3-html5.md",
+    "bootstrap-begins.md",
+    "spa-awesome.md",
+    "present-time.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/blah.gif"
+        }
+    },
+    "the-end.md"
 ]
