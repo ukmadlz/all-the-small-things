@@ -157,5 +157,17 @@
             "data-background": "resources/images/jquery-logo.gif"
         }
     },
-    "moar-browsers.md"
+    "moar-browsers.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/zoolander-crazy.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/starwars-solo-shurg.gif"
+        }
+    }
 ]
