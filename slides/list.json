@@ -1,5 +1,24 @@
 [
     "index.md",
+    "before-we-begin.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/breakfast-club-fist.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/audience-clapping.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/audience-asleep.gif"
+        }
+    },
     {
         "filename": "blank.md",
         "attr": {
