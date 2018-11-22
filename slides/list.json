@@ -135,5 +135,27 @@
     "me-thinks-hack.md",
     "see-the-timing.md",
     "remind-you-what-it-looks-like.md",
-    "https-www-warnerbros-com-archive-spacejam-movie-jam-htm.md"
+    "https-www-warnerbros-com-archive-spacejam-movie-jam-htm.md",
+    "early-200s.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/zoolander-dance-party.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/transformer-war.gif"
+        }
+    },
+    "all-the-browsers.md",
+    "get-mor-interactive.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/images/jquery-logo.gif"
+        }
+    },
+    "moar-browsers.md"
 ]
