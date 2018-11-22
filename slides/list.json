@@ -63,5 +63,17 @@
         "attr": {
             "data-background": "resources/gifs/aladdin-new-world.gif"
         }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/simpson-old-man-shakes-fist.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/mib-new-hotness.gif"
+        }
     }
 ]
