@@ -1,1 +1,0 @@
-#  Netscape 2.0

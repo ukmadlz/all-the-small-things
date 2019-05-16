@@ -1,1 +1,0 @@
-#  Jimmy Wales Launches Wikipedia

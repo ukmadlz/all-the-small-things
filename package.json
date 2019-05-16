@@ -1,5 +1,5 @@
 {
-  "name": "a-modern-history-of-evolution",
+  "name": "all-the-small-things",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ukmadlz/a-modern-history-of-evolution.git"
+    "url": "git@github.com:ukmadlz/all-the-small-things"
   },
   "scripts": {
     "test": "grunt test"

@@ -1,1 +1,0 @@
-![resources/images/aol.jpg](resources/images/aol.jpg)

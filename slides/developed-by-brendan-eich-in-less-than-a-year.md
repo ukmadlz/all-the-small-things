@@ -1,1 +1,0 @@
-#  Developed by Brendan Eich in less than a year!
