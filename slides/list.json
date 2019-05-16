@@ -1,32 +1,20 @@
 [
     "index.md",
-    "before-we-begin.md",
+    "work-for.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/breakfast-club-fist.gif"
+            "data-background": "resources/gifs/hands.gif"
         }
     },
     {
-        "filename": "blank.md",
+        "filename": "work-for.md",
         "attr": {
-            "data-background": "resources/gifs/audience-clapping.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/audience-asleep.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/charles-darwin.gif"
+            "data-background": "resources/gifs/books.gif"
         }
     },
     "who-am-i.md",
-    "work-for.md",
+    "do-things-with-internet.md",
     {
         "filename": "blank.md",
         "attr": {
@@ -46,38 +34,26 @@
         }
     },
     "so-what-s-this-talk-about.md",
+    "pop-punk-references.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/observe-telescope.gif"
+            "data-background": "resources/gifs/fly-for-a-white-guy.gif"
         }
     },
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/youths.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/aladdin-new-world.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/simpson-old-man-shakes-fist.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/mib-new-hotness.gif"
+            "data-background": "resources/gifs/denied.gif"
         }
     },
     "lets-being.md",
-    "ancient-history.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/story-time.gif"
+        }
+    },
     {
         "filename": "blank.md",
         "attr": {
@@ -87,108 +63,32 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/felix-walking.gif"
-        }
-    },
-    "1958.md",
-    "bell-labs-invents-modem.md",
-    "1969.md",
-    "ucla-team-sends-first-data-packets.md",
-    "1972.md",
-    "ray-tomlinson-invents-email.md",
-    "1973.md",
-    "tcp-ip-protocol-development-begins.md",
-    "1974.md",
-    "vint-cerf-robert-kahn-coin-internet-creators-of-tcp-ip.md",
-    "10ish-years-nothing-to-the-internet.md",
-    "1983.md",
-    "first-u-s-research-education-network-developed.md",
-    "1989.md",
-    "tim-berners-lee-creates-www.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/all-hail.gif"
-        }
-    },
-    "1991.md",
-    "world-wide-web-opens-to-public.md",
-    "still-exists.md",
-    "http-info-cern-ch-hypertext-www-theproject-html.md",
-    "so-basic.md",
-    "1995.md",
-    "mp3-is-developed.md",
-    "1999.md",
-    "craig-newmark-founds-craigslist-mitchell-baker-helps-found-mozilla-project.md",
-    "2001.md",
-    "jimmy-wales-launches-wikipedia.md",
-    "another-25-years.md",
-    "how-does-this-apply-to-web-development.md",
-    "it-s-taken-60-years.md",
-    "need-to-roll-back-to-1995.md",
-    "birth-of-netscape.md",
-    "aol-cd.md",
-    "just-html-css.md",
-    "netscape-2-0.md",
-    "comes-with-javascript.md",
-    "developed-by-brendan-eich-in-less-than-a-year.md",
-    "me-thinks-hack.md",
-    "see-the-timing.md",
-    "remind-you-what-it-looks-like.md",
-    "https-www-warnerbros-com-archive-spacejam-movie-jam-htm.md",
-    "early-200s.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/zoolander-dance-party.gif"
+            "data-background": "resources/gifs/monolith.gif"
         }
     },
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/transformer-war.gif"
-        }
-    },
-    "all-the-browsers.md",
-    "get-mor-interactive.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/images/jquery-logo.gif"
-        }
-    },
-    "moar-browsers.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "resources/gifs/zoolander-crazy.gif"
+            "data-background": "resources/images/drupal.png"
         }
     },
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/starwars-solo-shurg.gif"
+            "data-background": "resources/gifs/old-man.gif"
         }
     },
-    "flash.md",
-    "really-interactive.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/flash-games.gif"
+            "data-background": "resources/gifs/dollar-dollar.gif"
         }
     },
-    "but-building-it-still-sucked.md",
-    "at-last-standards.md",
-    "css3-html5.md",
-    "bootstrap-begins.md",
-    "spa-awesome.md",
-    "present-time.md",
+    "angularjs.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "resources/gifs/blah.gif"
+            "data-background": "resources/gifs/dollar-dollar.gif"
         }
-    },
-    "the-end.md"
+    }
 ]

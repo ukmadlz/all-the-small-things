@@ -2,7 +2,7 @@
 
 ## Mike Elsmore
 
-#### I do stuff with and on the Internet
+#### Lead Developer
 
 #### mikee@packt.com
 
