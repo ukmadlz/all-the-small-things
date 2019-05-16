@@ -90,5 +90,72 @@
         "attr": {
             "data-background": "resources/gifs/dollar-dollar.gif"
         }
-    }
+    },
+    "maintenance.md",
+    "php-5-2.md",
+    "angular-1-x.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/destory-computer.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/elmo-nodding.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/aladdin-lightbulb.gif"
+        }
+    },
+    "solution.md",
+    "microservices.md",
+    "what-are-they.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/one-job.gif"
+        }
+    },
+    "microservices-v1.md",
+    "aws-lambda.md",
+    "ci-cd.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/shipping.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/we-have-a-problem.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/monolith.gif"
+        }
+    },
+    "de-couple-the-frontend.md",
+    "de-couple-the-frontend-image.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/blade-success.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/cinderella.gif"
+        }
+    },
+    "magento-upgrade.md",
+    "extensible-pluggable-architecture.md"
 ]

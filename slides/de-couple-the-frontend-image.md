@@ -1,0 +1,1 @@
+![Decoupled FrontEnd](resources/images/decouple-frontend.png)
