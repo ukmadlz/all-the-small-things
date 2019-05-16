@@ -187,5 +187,51 @@
             "data-background": "resources/gifs/options.gif"
         }
     },
-    "how-about-at-the-front.md"
+    "how-about-at-the-front.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/ponder.gif"
+        }
+    },
+    "front-end-as-of-now.md",
+    "add-angular-6.md",
+    "add-react.md",
+    "subdomains.md",
+    "seo-guy.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/just-no.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/ponder.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/aladdin-lightbulb.gif"
+        }
+    },
+    "solution.md",
+    "cloudflare.md",
+    "cloudflare-service-workers.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/images/all-the-things.jpg"
+        }
+    },
+    "cutting-edge.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/woo-hoo.gif"
+        }
+    },
+    "the-end.md"
 ]
