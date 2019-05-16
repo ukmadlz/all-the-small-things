@@ -1,0 +1,1 @@
+![AWS Lambda](resources/images/lambda.png)
