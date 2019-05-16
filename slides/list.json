@@ -157,5 +157,35 @@
         }
     },
     "magento-upgrade.md",
-    "extensible-pluggable-architecture.md"
+    "extensible-pluggable-architecture.md",
+    "product-team.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/want-more.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/sounds-good.gif"
+        }
+    },
+    "microservices-v2.md",
+    "js-stack.md",
+    "switch.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/images/serverless.jpg"
+        }
+    },
+    "custom-runtimes.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/options.gif"
+        }
+    },
+    "how-about-at-the-front.md"
 ]
